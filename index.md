@@ -1,9 +1,9 @@
-# Joy Talla — Sécurité du mobile money et fintech
+# Joy Talla / Sécurité du mobile money et fintech
 
-Étudiant en Master 1 Réseaux et Sécurité Informatique (EST-Delasalle, Douala).
+Étudiant en Réseaux et Sécurité Informatique (Cameroun, Douala).
 
 ## Mon parcours
-Je construis une expertise en sécurité des paiements mobiles et des infrastructures fintech en zone CEMAC — de la SIM au grand livre comptable.
+Je construis une expertise en sécurité des paiements mobiles et des infrastructures fintech en zone CEMAC - de la SIM au grand livre comptable.
 
 ## Ce que je publie
 - Analyses de menaces sur les canaux USSD/SMS/SIM
